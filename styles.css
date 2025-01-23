@@ -19,7 +19,7 @@ h1 {
 }
 
 img {
-    width: 300px; 
+    width: 300px;
     height: auto;
 }
 
@@ -35,4 +35,14 @@ h2 {
     font-style: italic;
     color: white;
     text-indent: 1%;
+}
+
+.description {
+    font-style: italic;
+    text-align: justify;
+}
+
+.steps,
+.ingredients {
+    background-color: hsl(153, 52%, 82%);
 }
